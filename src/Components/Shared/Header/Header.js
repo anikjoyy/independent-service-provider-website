@@ -22,14 +22,13 @@ const Header = () => {
             <Nav className='me-auto'>
               <Nav.Link href='/'>Home</Nav.Link>
               <Nav.Link href='home#services'>Services</Nav.Link>
-              <Nav.Link href='home#reviews'>Reviews</Nav.Link>
             </Nav>
             <Nav>
-              <Nav.Link as={Link} to='/about'>
+              <Nav.Link as={Link} to='about'>
                 About
               </Nav.Link>
 
-              <Nav.Link as={Link} to='/login'>
+              <Nav.Link as={Link} to='login'>
                 Login
               </Nav.Link>
             </Nav>

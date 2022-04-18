@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Muslim Wedding",
+    "price": "350",
+    "img": "https://i.ibb.co/Mn9mDLd/muslim-wedding.jpg",
+    "description": "This is a full package for Muslim Wedding."
+  },
+  {
+    "id": 2,
+    "name": "Hinduism Wedding",
+    "price": "400",
+    "img": "https://i.ibb.co/XCg73RS/hindu-wedding.jpg",
+    "description": "Full photography package for Hindu Wedding."
+  },
+  {
+    "id": 3,
+    "name": "Haldi Ceremony",
+    "price": "250",
+    "img": "https://i.ibb.co/5B1FThP/haldi.jpg",
+    "description": "Capture your Haldi Ceremony moments with my photography."
+  },
+  {
+    "id": 4,
+    "name": "Reception Ceremony",
+    "price": "250",
+    "img": "https://i.ibb.co/HhJBj0v/reception.jpg",
+    "description": "Perfect photography package for reception ceremony."
+  },
+  {
+    "id": 5,
+    "name": "Christian Wedding",
+    "price": "300",
+    "img": "https://i.ibb.co/Zc1CPts/christian-wedding.jpg",
+    "description": "Full photography package for Christian Wedding."
+  }
+]

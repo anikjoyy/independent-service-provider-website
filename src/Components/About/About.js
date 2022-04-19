@@ -4,7 +4,7 @@ import AboutImage from '../../Images/about/about.jpg';
 
 const About = () => {
   return (
-    <div className='container mt-2 text-center bg-light'>
+    <div className='container mt-2 mb-5 text-center bg-light'>
       <img src={AboutImage} className='img-fluid w-25 rounded-circle' alt='' />
       <h2 className='pt-2 text-dark fw-bold'>Anik Das</h2>
       <p>

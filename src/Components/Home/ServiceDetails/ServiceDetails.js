@@ -4,7 +4,7 @@ import { Link, useParams } from 'react-router-dom';
 const ServiceDetails = () => {
   const { serviceId } = useParams();
   return (
-    <div className='container mt-2'>
+    <div className='container mt-2 mb-5'>
       <h2 className='text-center text-dark'>Details Page</h2>
       <h4 className='text-center text-danger'>
         Your package Id is: {serviceId}

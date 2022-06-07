@@ -14,15 +14,26 @@ const Banner = () => {
     <div>
       <Carousel activeIndex={index} onSelect={handleSelect}>
         <Carousel.Item>
-          <img className='d-block w-100' src={banner1} alt='First slide' />
+          <img
+            className='d-block w-100'
+            style={{ height: '60vh' }}
+            src={banner1}
+            alt='First slide'
+          />
           <Carousel.Caption>
             <h3>
-              Faith makes all things possible. Love makes all things easy.
+              The library is inhabited by spirits that come out of the pages at
+              night.
             </h3>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className='d-block w-100' src={banner2} alt='Second slide' />
+          <img
+            className='d-block w-100'
+            style={{ height: '60vh' }}
+            src={banner2}
+            alt='Second slide'
+          />
 
           <Carousel.Caption>
             <h3>
@@ -32,7 +43,12 @@ const Banner = () => {
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img className='d-block w-100' src={banner3} alt='Third slide' />
+          <img
+            className='d-block w-100'
+            style={{ height: '60vh' }}
+            src={banner3}
+            alt='Third slide'
+          />
 
           <Carousel.Caption>
             <h3>
